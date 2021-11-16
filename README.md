@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 
 ##
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-
 <img src="{https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white}" />
