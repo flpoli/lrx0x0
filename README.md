@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrx0x0&show_icons=true&theme=radical)
 
 ##
+<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 
 <img src="{https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white}" />
