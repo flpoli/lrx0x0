@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrx0x0&show_icons=true&theme=radical)
+
+##
+
 ![image]({https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white})
 ![image]({https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black})
 ![image]({https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white})
